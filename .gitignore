@@ -155,3 +155,4 @@ sdk/cosmos/azure-cosmos/test/test_config.py
 
 # temporary folder to refresh SDK with cadl
 TempTypeSpecFiles/
+.devcontainer/devcontainer.json
